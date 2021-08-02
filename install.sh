@@ -2,5 +2,7 @@
 #install
 chmod u+x timer.sh
 chmod u+x 2nd.sh
-export PATH="$PATH:$pwd"
-
+path=$pwd
+cd ~
+export PATH="$PATH:$path"
+exec bash
