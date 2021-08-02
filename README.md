@@ -2,10 +2,10 @@
 THIS IS BASH SCRIPT FOR A SIMPLE TIMER
 
 # INSTALL
-$ git clone https://github.com/WTS007/SIMPLE-BASH-TIMER.git
-$ cd SIMPLE-BASH-TIMER/
-$ chmod +x install.sh
-$ ./install.sh
+1) $ git clone https://github.com/WTS007/SIMPLE-BASH-TIMER.git
+2) $ cd SIMPLE-BASH-TIMER/ 
+3) $ chmod +x install.sh 
+4) $ ./install.sh
 
 # USAGE
 $ timer.sh
